@@ -1,5 +1,5 @@
 # Disaster Response Pipeline Project
-### Project Motivation
+### Introduction
 In this project, I build website that asks user to enter message then classify it by ML model and NLP tools.
 
 ### File Descriptions
